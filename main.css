@@ -1,0 +1,7 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", sans-serif;
+    margin: 0;
+  }
